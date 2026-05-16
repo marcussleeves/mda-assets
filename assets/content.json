@@ -1,7 +1,8 @@
 {
   "home": {
     "welcomeTitle": "Welcome to mydryages.com",
-    "welcomeBody": "Listen to our demos and experience our world through the photos and videos."
+    "welcomeBody": "Listen to our demos and experience our world through the photos and videos.",
+    "soundcloud": "https://soundcloud.com/my-dry-ages/sets/just-another-night-of-terror"
   },
   "bio": {
     "subtitle": "Though you feel sorrow, I hope you dance until the night is gone",
@@ -21,11 +22,15 @@
       "id": "TLJZWte6F_w",
       "title": "When You Sleep",
       "year": "2026"
-    },
-    {
-      "id": "2aH0zALB2sA",
-      "title": "test",
-      "year": "2026"
     }
-  ]
+  ],
+  "images": {
+    "homeBg": "",
+    "bioPoto": "",
+    "pattern": "fur-texture-seamless-free.jpg",
+    "ninaFeatured": "",
+    "marcusFeatured": "",
+    "nina": [],
+    "marcus": []
+  }
 }
