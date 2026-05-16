@@ -4,7 +4,7 @@
     "welcomeBody": "Listen to our demos and experience our world through the photos and videos."
   },
   "bio": {
-    "subtitle": "Though you feel sorrow, I hope you dance until the fight is gone",
+    "subtitle": "Though you feel sorrow, I hope you dance until the night is gone",
     "members": [
       "Suh Nina — vocals",
       "Marcus Sleeves — production, engineering"
@@ -22,5 +22,14 @@
       "title": "When You Sleep",
       "year": "2026"
     }
-  ]
+  ],
+  "images": {
+    "homeBg": "",
+    "bioPoto": "",
+    "pattern": "",
+    "ninaFeatured": "",
+    "marcusFeatured": "",
+    "nina": [],
+    "marcus": []
+  }
 }
