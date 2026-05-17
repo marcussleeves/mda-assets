@@ -29,8 +29,10 @@
     "bioPoto": "394A8577-2.png",
     "pattern": "cloudy_sky-blue_02-1024x512_0.png",
     "ninaFeatured": "394A8796.png",
-    "marcusFeatured": "c.png",
-    "nina": [],
+    "marcusFeatured": "",
+    "nina": [
+      "1779033868106_073r_394A8797.jpg"
+    ],
     "marcus": []
   }
 }
